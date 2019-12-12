@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A2</string>
+
+
+    <string name="description">Did you know that you can tell the temperature by counting the chirps of a cricket?  It\'s true! A correlation was found between the ambient temperature and the crickets\'
+        chirp rate, this discovery dates back to 1897 and was made by scientist Amos Dolbear.
+        \n To determine the temperature in °C let\'s input the number of chirps in 25 seconds,  from one cricket, below.</string>
+
+
+
+    <string name="textview">T °C</string>
+    <string name="button">Get temperature</string>
+    <string name="hint_input">number of chirps in 25 seconds</string>
+    <string name="temperature">The approximate temperature outside is: </string>
+    <string name="Celsius">°C</string>
+    <string name="warning">Please enter a valid number</string>
+
+
+
+</resources>
